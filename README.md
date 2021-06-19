@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tsofeeling
-- 👀 I’m interested in creating social media
-- 🌱 I’m currently learning to deploy social media
 - 📫 How to reach me ? - <br/>
   Follow me on twitter @tsofeeling
 
